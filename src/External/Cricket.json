@@ -1,0 +1,901 @@
+{
+    "set1": {
+      "base": 200,
+      "name": [
+        "R. Ashwin",
+        "Trent Boult",
+        "Pat Cummins",
+        "Quinton De Kock",
+        "Shikhar Dhawan",
+        "Faf Du Plessis",
+        "Shreyas Iyer",
+        "Kagiso Rabada",
+        "Mohammad Shami",
+        "David Warner"
+      ]
+    },
+    "set2": {
+      "base": 150,
+      "name": [
+        "Shimron Hetmyer",
+        "David Miller",
+        "Devdutt Padikkal",
+        "Manish Pandey",
+        "Suresh Raina",
+        "Jason Roy",
+        "Steve Smith",
+        "Robin Uthappa"
+      ]
+    },
+    "set3": {
+      "base": 200,
+      "name": [
+        "Shakib Al Hasan",
+        "Dwayne Bravo",
+        "Wanindu Hasaranga",
+        "Jason Holder",
+        "Mitchell Marsh",
+        "Mohammad Nabi",
+        "Krunal Pandya",
+        "Harshal Patel",
+        "Nitish Rana",
+        "Washington Sundar"
+      ]
+    },
+    "set4": {
+      "base": 150,
+      "name": [
+        "Jonny Bairstow",
+        "Sam Billings",
+        "Dinesh Karthik",
+        "Ishan Kishan",
+        "Nicholas Pooran",
+        "Ambati Rayudu",
+        "Wriddhiman Saha",
+        "Matthew Wade"
+      ]
+    },
+    "set5": {
+      "base": 200,
+      "name": [
+        "Deepak Chahar",
+        "Lockie Ferguson",
+        "Josh Hazlewood",
+        "Prasidh Krishna",
+        "Bhuvneshwar Kumar",
+        "T. Natarajan",
+        "Mustafizur Rahman",
+        "Shardul Thakur",
+        "Mark Wood",
+        "Umesh Yadav"
+      ]
+    },
+    "set6": {
+      "base": 200,
+      "name": [
+        "Yuzvendra Chahal",
+        "Rahul Chahar",
+        "Amit Mishra",
+        "Adil Rashid",
+        "Imran Tahir",
+        "Kuldeep Yadav",
+        "Mujeeb Zadran",
+        "Adam Zampa"
+      ]
+    },
+    "set7": {
+      "base": 20,
+      "name": [
+        "Dewald Brevis",
+        "Priyam Garg",
+        "Ashwin Hebbar",
+        "C.Hari Nishaanth",
+        "Rajat Patidar",
+        "Abhinav Sadarangani",
+        "Anmolpreet Singh",
+        "Rahul Tripathi"
+      ]
+    },
+    "set8": {
+      "base": 30,
+      "name": [
+        "Shahbaz Ahamad",
+        "Harpreet Brar",
+        "Deepak Hooda",
+        "Sarfaraz Khan",
+        "Shahrukh Khan",
+        "Shivam Mavi",
+        "Kamlesh Nagarkoti",
+        "Riyan Parag",
+        "Abhishek Sharma",
+        "Rahul Tewatia"
+      ]
+    },
+    "set9": {
+      "base": 20,
+      "name": [
+        "Mohammed Azharuddeen",
+        "K.S. Bharat",
+        "Sheldon Jackson",
+        "N. Jagadeesan",
+        "Anuj Rawat",
+        "Jitesh Sharma",
+        "Prabhsimran Singh",
+        "Vishnu Solanki",
+        "Vishnu Vinod"
+      ]
+    },
+    "set10": {
+      "base": 20,
+      "name": [
+        "K.M. Asif",
+        "Akash Deep",
+        "Tushar Deshpande",
+        "Avesh Khan",
+        "Ishan Porel",
+        "Ankit Singh Rajpoot",
+        "Basil Thampi",
+        "Kartik Tyagi"
+      ]
+    },
+    "set11": {
+      "base": 30,
+      "name": [
+        "Noor Ahmad",
+        "Murugan Ashwin",
+        "K.C Cariappa",
+        "Shreyas Gopal",
+        "Sandeep Lamichhane",
+        "R. Sai Kishore",
+        "M. Siddharth",
+        "Jagadeesha Suchith"
+      ]
+    },
+    "set12": {
+      "base": 150,
+      "name": [
+        "Aaron Finch",
+        "Marnus Labuschagne",
+        "Dawid Malan",
+        "Aiden Markram",
+        "Eoin Morgan",
+        "Cheteshwar Pujara",
+        "Ajinkya Rahane",
+        "Mandeep Singh",
+        "Saurabh Tiwary"
+      ]
+    },
+    "set13": {
+      "base": 75,
+      "name": [
+        "Dominic Drakes",
+        "Shivam Dube",
+        "K. Gowtham",
+        "Marco Jansen",
+        "Chris Jordan",
+        "Liam Livingstone",
+        "James Neesham",
+        "Vijay Shankar",
+        "Odean Smith",
+        "Jayant Yadav"
+      ]
+    },
+    "set14": {
+      "base": 50,
+      "name": [
+        "Syed Khaleel Ahmed",
+        "Dushmanta Chameera",
+        "Sheldon Cottrell",
+        "Nathan Coulter-Nile",
+        "Lungisani Ngidi",
+        "Navdeep Saini",
+        "Chetan Sakariya",
+        "Ishant Sharma",
+        "Sandeep Sharma",
+        "Jaydev Unadkat"
+      ]
+    },
+    "set15": {
+      "base": 50,
+      "name": [
+        "Qais Ahmad",
+        "Piyush Chawla",
+        "Mayank Markande",
+        "Shahbaz Nadeem",
+        "Tabraiz Shamsi",
+        "Karn Sharma",
+        "Ish Sodhi",
+        "Maheesh Theekshana"
+      ]
+    },
+    "set16": {
+      "base": 20,
+      "name": [
+        "Sachin Baby",
+        "Ricky Bhui",
+        "Himanshu Rana",
+        "Harnoor Singh",
+        "Himmat Singh",
+        "Rinku Singh",
+        "Virat Singh",
+        "Manan Vohra"
+      ]
+    },
+    "set17": {
+      "base": 20,
+      "name": [
+        "Raj Angad Bawa",
+        "Yash Dhull",
+        "Rajvardhan Hangargekar",
+        "Mahipal Lomror",
+        "Darshan Nalkande",
+        "Vicky Ostwal",
+        "Ripal Patel",
+        "Anuk ul Roy",
+        "N. Tilak Varma",
+        "Lalit Yadav",
+        "Sanjay Yadav"
+      ]
+    },
+    "set18": {
+      "base": 20,
+      "name": [
+        "Yash Dayal",
+        "Arzan Nagwaswalla",
+        "Kuldeep Sen",
+        "Akash Singh",
+        "Simarjeet Singh",
+        "Yash Thakur",
+        "Vasu Vats",
+        "Mujtaba Yousuf"
+      ]
+    },
+    "set19": {
+      "base": 50,
+      "name": [
+        "Finn Allen",
+        "Devon Conway",
+        "Alex Hales",
+        "Evin Lewis",
+        "Chris Lynn",
+        "Karun Nair",
+        "Rovman Powell",
+        "Rassie Van Der Dussen",
+        "Najibullah Zadran"
+      ]
+    },
+    "set20": {
+      "base": 200,
+      "name": [
+        "Jofra Archer",
+        "Charith Asalanka",
+        "Rishi Dhawan",
+        "George Garton",
+        "Daryl Mitchell",
+        "Dwaine Pretorius",
+        "Sherfane Rutherford",
+        "Daniel Sams",
+        "Mitchell Santner",
+        "Romario Shepherd"
+      ]
+    },
+    "set21": {
+      "base": 50,
+      "name": [
+        "Litton Das",
+        "Niroshan Dickwella",
+        "Andre Fletcher",
+        "Rahmanullah Gurbaz",
+        "Shai Hope",
+        "Heinrich Klaasen",
+        "Ben Mcdermott",
+        "Kusal Mendis",
+        "Kusal Perera",
+        "Joshua Philippe",
+        "Glenn Phillips",
+        "Tim Seifert"
+      ]
+    },
+    "set22": {
+      "base": 75,
+      "name": [
+        "Jason Behrendorff",
+        "Nathan Ellis",
+        "Fazalhaq Farooqi",
+        "Siddharth Kaul",
+        "Obed Mccoy",
+        "Tymal Mills",
+        "Adam Milne",
+        "Reece Topley",
+        "Andrew Tye",
+        "Sandeep Warrier"
+      ]
+    },
+    "set23": {
+      "base": 50,
+      "name": [
+        "Todd Astle",
+        "Akila Dhananjaya",
+        "Zahir Khan",
+        "Keshav Maharaj",
+        "Waqar Salamkheil",
+        "Rahul Sharma",
+        "Hayden Walsh"
+      ]
+    },
+    "set24": {
+      "base": 20,
+      "name": [
+        "Tanmay Agarwal",
+        "Shivam Chauhan",
+        "Nikhil Gangta",
+        "Rohan Kadam",
+        "Tom Kohler-Cadmore",
+        "Priyank Panchal",
+        "Sameer Rizvi",
+        "Ritwik Roy Chowdhury",
+        "Subhranshu Senapati",
+        "Apoorv Wankhade"
+      ]
+    },
+    "set25": {
+      "base": 20,
+      "name": [
+        "Atharva Ankolekar",
+        "Tim David",
+        "Pravin Dubey",
+        "Prerak Mankad",
+        "Suyash Prabhudessai",
+        "Ramandeep Singh",
+        "B. Sai Sudharsan",
+        "Atharva Taide",
+        "Tanay Thyagarajan"
+      ]
+    },
+    "set26": {
+      "base": 20,
+      "name": [
+        "Ankush Bains",
+        "Prashant Chopra",
+        "Kedar Devdhar",
+        "Shreevats Goswami",
+        "Dhruv Jurel",
+        "Aryan Juyal",
+        "Akshdeep Nath",
+        "Luvnith Sisodia",
+        "Aditya Tare",
+        "Upendra Singh Yadav"
+      ]
+    },
+    "set27": {
+      "base": 20,
+      "name": [
+        "Vaibhav Arora",
+        "Mukesh Choudhary",
+        "Rasikh Dar",
+        "Ben Dwarshuis",
+        "Pankaj Jaswal",
+        "Mohsin Khan",
+        "Lukman Hussain Meriwala",
+        "Chama Milind",
+        "Vyshak Vijay Kumar",
+        "Mayank Yadav"
+      ]
+    },
+    "set28": {
+      "base": 20,
+      "name": [
+        "Zeeshan Ansari",
+        "Tejas Baroka",
+        "Yuvraj Chudasama",
+        "Dharmendrasinh Jadeja",
+        "Khrievitso Kense",
+        "Prince Balwant Rai",
+        "Pardeep Sahu",
+        "Jalaj Saxena",
+        "Prashant Solanki",
+        "Midhun Sudhesan"
+      ]
+    },
+    "set29": {
+      "base": 75,
+      "name": [
+        "Martin Guptill",
+        "Usman Khawaja",
+        "Brandon King",
+        "Janneman Malan",
+        "Bhanuka Rajapaksa",
+        "Rilee Rossouw",
+        "Paul Stirling",
+        "Hanuma Vihari",
+        "James Vince",
+        "Hazratullah Zazai"
+      ]
+    },
+    "set30": {
+      "base": 75,
+      "name": [
+        "Fabian Allen",
+        "Roston Chase",
+        "Ben Cutting",
+        "Lewis Gregory",
+        "Moises Henriques",
+        "Akeal Hosein",
+        "Karim Janat",
+        "Scott Kuggeleijn",
+        "Pawan Negi",
+        "Gurkeerat Singh"
+      ]
+    },
+    "set31": {
+      "base": 75,
+      "name": [
+        "Sean Abbott",
+        "Taskin Ahmed",
+        "Marchant De Lange",
+        "Alzarri Joseph",
+        "Dhawal Kulkarni",
+        "Saqib Mahmood",
+        "Riley Meredith",
+        "Kane Richardson",
+        "Tim Southee",
+        "Naveen Ul Haq"
+      ]
+    },
+    "set32": {
+      "base": 40,
+      "name": [
+        "Harpreet Bhatia",
+        "Rahul Buddhi",
+        "Sudip Chatterjee",
+        "Hiten Dalal",
+        "Abhimanyu Easwaran",
+        "Laurie Evans",
+        "Rahul Gahlaut",
+        "Amandeep Khare",
+        "Mayank Rawat",
+        "Dhruv Shorey"
+      ]
+    },
+    "set33": {
+      "base": 20,
+      "name": [
+        "Ayush Badoni",
+        "Aneeshwar Gautam",
+        "Benny Howell",
+        "Hayden Kerr",
+        "S aurabh Kumar",
+        "Shams Mulani",
+        "Dhruv Patel",
+        "Atit Sheth",
+        "Utkarsh Singh",
+        "David Wiese"
+      ]
+    },
+    "set34": {
+      "base": 20,
+      "name": [
+        "Kaif Ahmad",
+        "Shubhum Arora",
+        "Baba Indrajith",
+        "Arun Karthick",
+        "Eknath Kerkar",
+        "Kennar Lewis",
+        "Nikhil Naik",
+        "Urvil Patel",
+        "B.R. Sharath",
+        "K.L. Shrijith"
+      ]
+    },
+    "set35": {
+      "base": 20,
+      "name": [
+        "Mohit Avasthi",
+        "Sushant Mishra",
+        "Matheesha Pathirana",
+        "G Periyasamy",
+        "M.Harishankar Reddy",
+        "R. Silambarasan",
+        "Aditya Thakare",
+        "Tanveer Ul Haq",
+        "Kuldip Yadav",
+        "Prithviraj Yarra"
+      ]
+    },
+    "set36": {
+      "base": 20,
+      "name": [
+        "Satyajeet Bachhav",
+        "Chintal Gandhi",
+        "Jacob Lintott",
+        "Izharulhuq Naveed",
+        "Tanveer Sangha",
+        "Manav Suthar",
+        "Milind Tandon",
+        "Sagar Udeshi",
+        "Kushaal Wadhwani",
+        "Akshay Wakhare"
+      ]
+    },
+    "set37": {
+      "base": 75,
+      "name": [
+        "Darren Bravo",
+        "Shamrah Brooks",
+        "Avishka Fernando",
+        "Zubayr Hamza",
+        "Pathum Nissaanka",
+        "Kurtis Patterson",
+        "Hashmatullah Shahidi",
+        "Manoj Tiwary"
+      ]
+    },
+    "set38": {
+      "base": 200,
+      "name": [
+        "Ashton Agar",
+        "Carlos Brathwaite",
+        "Kedar Jadhav",
+        "Chamika Karunaratne",
+        "Colin Munro",
+        "Gulbadin Naib",
+        "Keemo Paul",
+        "Parvez Rasool",
+        "Dasun Shanaka",
+        "David Willey"
+      ]
+    },
+    "set39": {
+      "base": 50,
+      "name": [
+        "Varun Aaron",
+        "Wesley Agar",
+        "Shoriful Islam",
+        "Josh Little",
+        "Blessing Muzarabani",
+        "Jayden Seales",
+        "Mohit Sharma",
+        "Barinder Sran",
+        "Billy Stanlake",
+        "Neil Wagner"
+      ]
+    },
+    "set40": {
+      "base": 20,
+      "name": [
+        "Qamran Iqbal",
+        "Ishank Jaggi",
+        "Rohan Kunnummal",
+        "Tanmay Mishra",
+        "Yash Nahar",
+        "Shubham Singh Rohilla",
+        "Alex Ross",
+        "R Samarth",
+        "Naushad Shaikh",
+        "Abhijeet Tomar"
+      ]
+    },
+    "set41": {
+      "base": 20,
+      "name": [
+        "Baba Aparajith",
+        "Prayas Barman",
+        "Yudhvir Charak",
+        "Shubhang Hegde",
+        "Roosh Kalaria",
+        "Aman Khan",
+        "Tanush Kotian",
+        "Pradeep Sangwan",
+        "Kaushal Tambe",
+        "Shivank Vashisth"
+      ]
+    },
+    "set42": {
+      "base": 20,
+      "name": [
+        "Rahul Chandrol",
+        "Harvik Desai",
+        "Cam Fletcher",
+        "Tarang Gohel",
+        "Fazil Makaya",
+        "Ryan Rickelton",
+        "Sandeep Kumar Tomar",
+        "Siddhesh Wath"
+      ]
+    },
+    "set43": {
+      "base": 20,
+      "name": [
+        "Stephen Cheepurupalli",
+        "Aniket Choudhary",
+        "Kartikeya Kak",
+        "Ali Khan",
+        "Kulwant Khejroliya",
+        "Ronit More",
+        "M Nidheesh",
+        "Babasafi Pathan",
+        "Vidyadhar Patil",
+        "Mukesh Kumar Singh"
+      ]
+    },
+    "set44": {
+      "base": 20,
+      "name": [
+        "R. Alexandar",
+        "Adithya Ashok",
+        "Jasmer Dhankhar",
+        "Prerit Dutta",
+        "Jon Russ Jaggesar",
+        "S. Kishan Kumar",
+        "Kevin Koththigoda",
+        "Swaraj Wabale"
+      ]
+    },
+    "set45": {
+      "base": 50,
+      "name": [
+        "Curtis Campher",
+        "Colin De Grandhomme",
+        "James Faulkner",
+        "Craig Overton",
+        "Wayne Parnell",
+        "Samit Patel",
+        "Thisara Perera",
+        "Darcy Short",
+        "Murali Vijay",
+        "Jack Wildermuth"
+      ]
+    },
+    "set46": {
+      "base": 50,
+      "name": [
+        "Hamish Bennett",
+        "Daryn Dupavillon",
+        "Fidel Edwards",
+        "Hamid Hassan",
+        "Lahiru Kumara",
+        "Joel Paris",
+        "S. Sreesanth",
+        "Oshane Thomas",
+        "Blair Tickner",
+        "Isuru Udana"
+      ]
+    },
+    "set47": {
+      "base": 20,
+      "name": [
+        "Donavon Ferreira",
+        "Ramesh Kumar",
+        "Bhupen Lalwani",
+        "Henan Malik",
+        "Pukhraj Mann",
+        "Shashwat Rawat",
+        "Pratham Singh",
+        "Jake Weatherald"
+      ]
+    },
+    "set48": {
+      "base": 20,
+      "name": [
+        "Writtick Chatterjee",
+        "Gerald Coetzee",
+        "Akash Choudhary",
+        "Baltej Dhanda",
+        "Saurabh Dubey",
+        "Mohit Jangra",
+        "Aaqib Khan",
+        "Ruben Trumpelmann",
+        "Brad Wheal",
+        "Lalit Yadav"
+      ]
+    },
+    "set49": {
+      "base": 20,
+      "name": [
+        "Jaideep Bhambhu",
+        "Nandre Burger",
+        "Matt Kelly",
+        "V Koushik",
+        "Akash Madhwal",
+        "Amit Mishra",
+        "Anuj Raj",
+        "Abhijeet Saket",
+        "Rahul Shukla",
+        "Nuwan Thushara"
+      ]
+    },
+    "set50": {
+      "base": 50,
+      "name": [
+        "Mark Adnair",
+        "Hilton Cartwright",
+        "Gareth Delany",
+        "Danushka Gunatilaka",
+        "Anaru Kitchen",
+        "Dhananjaya Lakshan",
+        "Sisanda Magala",
+        "Kyle Mayers",
+        "Andile Phehlukwayo",
+        "Seekkuge Prasanna",
+        "Raymon Reifer"
+      ]
+    },
+    "set51": {
+      "base": 20,
+      "name": [
+        "Amit Ali",
+        "Chaitanya Bishnoi",
+        "Mayank Dagar",
+        "Migael Pretorius",
+        "Karan Sharma",
+        "Shivam Sharma",
+        "Pratyush Singh",
+        "Sanvir Singh",
+        "Dhrushant Soni",
+        "M Venkatesh"
+      ]
+    },
+    "set52": {
+      "base": 20,
+      "name": [
+        "Bandaru Ayyappa",
+        "Gurnoor Singh Brar",
+        "Akash Choudhary",
+        "Baltej Dhanda",
+        "Saurabh Dubey",
+        "Mohit Jangra",
+        "Aaqib Khan",
+        "Ruben Trumpelmann",
+        "Brad Wheal",
+        "Lalit Yadav"
+      ]
+    },
+    "set53": {
+      "base": 20,
+      "name": [
+        "Auqib Dar",
+        "Chirag Gandhi",
+        "Chris Green",
+        "Sijomon Joseph",
+        "Anirudha Joshi",
+        "Mohd. Arshad Khan",
+        "Ansh Patel",
+        "Shubham Sharma",
+        "Shubham Singh",
+        "K.Bhagath Varma"
+      ]
+    },
+    "set54": {
+      "base": 20,
+      "name": [
+        "Arpit Guleria",
+        "Vipul Krishna",
+        "Safvan Patel",
+        "Chinntla Readdi",
+        "Manish Reddy",
+        "Ashok Sharma",
+        "Ravi Sharma",
+        "Shubham Singh"
+      ]
+    },
+    "set55": {
+      "base": 20,
+      "name": [
+        "Corbin Bosch",
+        "Nathan McAndrew",
+        "Diwesh Pathania",
+        "Shubham Ranjane",
+        "Tom Rogers",
+        "Johannes Smit",
+        "Sagar Trivedi",
+        "Harsh Tyagi",
+        "R. Vivek",
+        "R.Sonu Yadav"
+      ]
+    },
+    "set56": {
+      "base": 20,
+      "name": [
+        "V. Athisayaraj",
+        "Ottneil Baartman",
+        "M.B. Darshan",
+        "V. Gowtham",
+        "Khwezi Gumede",
+        "Liam Guthrie",
+        "Liam Hatcher"
+      ]
+    },
+    "set57": {
+      "base": 20,
+      "name": [
+        "Jay Bista",
+        "Saurav Chuahan",
+        "Tajinder Dhillon",
+        "Dikshanshu Negi",
+        "Abhishek Raut",
+        "K.V. Sasikanth",
+        "Bharat Sharma",
+        "Shivam Sharma",
+        "Arjun Tendulkar",
+        "Amit Yadav"
+      ]
+    },
+    "set58": {
+      "base": 20,
+      "name": [
+        "Manoj Bhandage",
+        "Arun Chaprana",
+        "Ajay Dev Goud",
+        "Divyang Hinganekar",
+        "Azim Kazi",
+        "Sujit Nayak",
+        "Parth Sahani",
+        "Ashutosh Sharma",
+        "Vivrant Sharma",
+        "Kumar Kartikeya Singh"
+      ]
+    },
+    "set59": {
+      "base": 20,
+      "name": [
+        "Ravi Chauhan",
+        "Shubham Garhwal",
+        "Shafiqullah Ghafari",
+        "M. Mohammed",
+        "Pulkit Narang",
+        "Pradosh Paul",
+        "Pushpendra Singh Rathore",
+        "Jason Sangha",
+        "Purnank Tyagi",
+        "Samarth Vyas"
+      ]
+    },
+    "set60": {
+      "base": 20,
+      "name": [
+        "Duan Jansen",
+        "Dev Lakra",
+        "Ajay Mandal",
+        "Lakhan Raja",
+        "Girinath Reddy",
+        "Siddhant Sharma",
+        "Matthew Short",
+        "Anunay Singh",
+        "Saurin Thakar",
+        "Nyeem Young"
+      ]
+    },
+    "set61": {
+      "base": 20,
+      "name": [
+        "Yuvraj Chaudhary",
+        "Khizar Dafedar",
+        "Sahil Dhiwan",
+        "Arjit Gupta",
+        "Mickil Jaiswal",
+        "Ryan John",
+        "J. Kousik",
+        "Jonty Sidhu",
+        "Yashovardhan Singh",
+        "Beyers Swanepoel",
+        "Pranshu Vijayran"
+      ]
+    },
+    "set62": {
+      "base": 20,
+      "name": [
+        "Ishan Afridi",
+        "Mohammed Afridi",
+        "Prerit Agrawal",
+        "Aidan Cahill",
+        "Mark Deyal",
+        "Nidhish Rajagopal",
+        "Bavanaka Sandeep",
+        "Safyaan Sharif",
+        "Henry Shipley",
+        "Maxwell Swaminathan",
+        "Johan Van Dyk",
+        "Dunith Wellalage"
+      ]
+    }
+  }
