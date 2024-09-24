@@ -4,8 +4,12 @@ import './App.css';
 import BgVideo from './External/4932714_Person_People_3840x2160.mp4';
 import Button from '@mui/material/Button';
 import Fingerprint from '@mui/icons-material/Fingerprint';
-import Cricket from './Cricket'; // Adjust the path as necessary
+import Cricket from './Cricket/Cricket'; // Adjust the path as necessary
 import Football from './Football'
+import CricData from './Cricket/CricketData';
+import CricketOpen from './Cricket/CricketOpen'
+import CricketJoin from './Cricket/Cricketjoin'
+import Auctionarea from './Cricket/CricketAuctionArea'
 
 function App() {
   const [selectedSport, setSelectedSport] = useState('');
@@ -30,7 +34,7 @@ function App() {
           <source src={BgVideo} type="video/mp4" />
         </video>
         <div className="App-box">
-          <h1>BidBizz</h1>
+          <h1>BidBuzz</h1>
           <h5>Aim, Bid, Win!</h5>
           <div className="radio-group">
             <label>
@@ -48,6 +52,7 @@ function App() {
                 value="Football"
                 checked={selectedSport === 'Football'}
                 onChange={handleChange}
+                disabled
               />
               Football
             </label>
@@ -69,6 +74,10 @@ const Main = () => (
     <Routes>
       <Route path="/cricket-auction" element={<Cricket />} />
       <Route path="/football-auction" element={<Football />} />
+      <Route path="/cricket-auction-data" element={<CricData />} />
+      <Route path="/cricket-create" element={<CricketOpen />} />
+      <Route path="/cricket-join" element={<CricketJoin />} />
+      <Route path="/BidBuzzCricauction" element={<Auctionarea />} />
       <Route path="/" element={<App />} />
     </Routes>
   </Router>
