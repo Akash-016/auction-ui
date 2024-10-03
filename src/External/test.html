@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Move Image Up and Down on Click</title>
+  <style>
+    .moving-image {
+      width: 300px;
+      height: 300px;
+      position: relative;
+      transition: top 0.5s ease, opacity 0.5s ease; /* Smooth transition for movement and opacity */
+      opacity: 0; /* Initially hidden */
+    }
+  </style>
+</head>
+<body>
+
+  <img src="bid.png" alt="Moving Image" class="moving-image" id="image">
+
+  <button id="moveButton">Move Image</button>
+
+  <script>
+    document.getElementById('moveButton').addEventListener('click', function() {
+      const image = document.getElementById('image');
+      
+      // Make image visible and move up
+      image.style.opacity = 1;
+      image.style.top = '-40px';
+      
+      // After a delay, bring it back down
+      setTimeout(function() {
+        image.style.top = '0px';
+      }, 500); // Match the transition duration
+
+      // After a further delay, hide the image
+      setTimeout(function() {
+        image.style.opacity = 0;
+      }, 1000); // Adjust time to match movement and opacity transition
+    });
+  </script>
+
+</body>
+</html>
